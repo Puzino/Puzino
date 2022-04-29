@@ -10,4 +10,4 @@ My stack: Python 3.x, Django, Django ORM, SQL, CSS, HTML</p><p align='left'> You
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact)](https://github.com/Puzino/github-readme-stats)
 
 
-[![Linkedin](https://img.shields.io/badge/-55-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/55/)](https://www.linkedin.com/in/55/) 
+[![Linkedin](https://img.shields.io/badge/-55-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timur-puzino-a08ab6142/)](https://www.linkedin.com/in/55/) 
