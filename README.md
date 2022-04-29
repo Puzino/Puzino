@@ -8,3 +8,6 @@ My stack: Python 3.x, Django, Django ORM, SQL, CSS, HTML</p><p align='left'> You
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Puzino&show_icons=true&include_all_commits=true)](https://github.com/Puzino/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact)](https://github.com/Puzino/github-readme-stats)
+
+
+[![Linkedin](https://img.shields.io/badge/-55-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/55/)](https://www.linkedin.com/in/55/) 
