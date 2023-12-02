@@ -7,14 +7,15 @@
 <p align='left'>I studying Python/C# for backend and game developing</p>
 <p>My stack Python: Python 3.x, Django, DRF, CSS, HTML, LINUX</p>
 <p>My stack C#: .NET 7, ASP.NET </p>
-<p>SQL: MSSQL,</p>
+<p>SQL: MSSQL,
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+</p>
 
 
 <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a>/<a href='https://drive.google.com/file/d/1PK1D_ko_cgM766OZaQqkpiJ8bDHSrWUo/view?usp=sharing' target=_blank><u>C#</u></a></p>
