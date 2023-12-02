@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-puzino000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:puzino000@gmail.com)](mailto:puzino000@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Timur-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timur-puzino/)](https://www.linkedin.com/in/timur-puzino) 
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
+
 [![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
 
 
