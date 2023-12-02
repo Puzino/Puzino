@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, My name is Timur, but you can call me Tim</h1>
+<h1 align="center">Hello! And welcome to my GitHub profile<br/>, My name is Timur, but you can call me Tim</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-puzino000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:puzino000@gmail.com)](mailto:puzino000@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Timur-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timur-puzino/)](https://www.linkedin.com/in/timur-puzino) 
