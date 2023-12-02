@@ -3,10 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-puzino000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:puzino000@gmail.com)](mailto:puzino000@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Timur-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timur-puzino/)](https://www.linkedin.com/in/timur-puzino) 
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
-[![Github Badge](https://komarev.com/ghpvc/?username=Puzino)
-<p align='left'> <img src='https://komarev.com/ghpvc/?username=Puzino' alt=Puzino /></p>
-<h2 align='center'>I studying Python/C# for backend and game developing</h2>
-<h4 align='left'> You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a>/<a href='https://drive.google.com/file/d/1PK1D_ko_cgM766OZaQqkpiJ8bDHSrWUo/view?usp=sharing' target=_blank><u>C#</u></a></h4>
+![Github Badge](https://komarev.com/ghpvc/?username=Puzino)
+
+<h2 align='center'>I studying Python/C# for backend and game developing
+You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a>/<a href='https://drive.google.com/file/d/1PK1D_ko_cgM766OZaQqkpiJ8bDHSrWUo/view?usp=sharing' target=_blank><u>C#</u></a></h2>
+
 <h4>My stack Python: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
