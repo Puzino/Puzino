@@ -15,7 +15,7 @@ You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6v
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 </h4>
 
-<h4>My stack Front-End:
+<h4>Front-End:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,4 +59,4 @@ You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6v
 [![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Puzino&theme=onedark)](https://github.com/Puzino)
 [![Puzino's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Puzino&theme=dark)](https://github.com/Puzino/leetcode-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Puzino/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact&theme=dark#gh-dark-mode-only&size_weight=0.5&count_weight=0.5)](https://github.com/Puzino/github-readme-stats#gh-dark-mode-only)
