@@ -4,6 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/-Timur-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timur-puzino/)](https://www.linkedin.com/in/timur-puzino) 
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
 
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)[![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
+
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,10 +24,9 @@
 <p align='left'> <img src=https://komarev.com/ghpvc/?username=Puzino alt=Puzino /></p>
 <p align='left'>I studying Python/C# for backend and game developing</p>
 <p>My stack Python: Python 3.x, Django, DRF, CSS, HTML, LINUX</p>
-<p>My stack C#: .NET 7, ASP.NET 
+<p>My stack C#: ASP.NET 
   
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
 </p>
 
 <p>SQL:
@@ -45,12 +48,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Puzino&show_icons=true&include_all_commits=true)](https://github.com/Puzino/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact)](https://github.com/Puzino/github-readme-stats)
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Puzino&theme=transparent&border_radius=4&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
-
-
-[![Puzino's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Puzino&theme=dark)](https://github.com/Puzino/leetcode-stats)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)[![Puzino's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Puzino&theme=dark)](https://github.com/Puzino/leetcode-stats)
