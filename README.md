@@ -3,6 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-puzino000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:puzino000@gmail.com)](mailto:puzino000@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Timur-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timur-puzino/)](https://www.linkedin.com/in/timur-puzino) 
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
+<p align='left'> <img src=https://komarev.com/ghpvc/?username=Puzino alt=Puzino /></p>
+<p align='left'>I studying Python/C# for backend and game developing</p>
+<p>My stack Python: Python 3.x, Django, DRF, CSS, HTML, LINUX</p>
+<p>My stack C#: ASP.NET 
 
 [![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
 
@@ -21,10 +25,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align='left'> <img src=https://komarev.com/ghpvc/?username=Puzino alt=Puzino /></p>
-<p align='left'>I studying Python/C# for backend and game developing</p>
-<p>My stack Python: Python 3.x, Django, DRF, CSS, HTML, LINUX</p>
-<p>My stack C#: ASP.NET 
+
   
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 </p>
