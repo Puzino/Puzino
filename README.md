@@ -57,6 +57,6 @@ You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6v
 <h2>Some of my stats</h2>
 
 [![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Puzino&theme=onedark)](https://github.com/Puzino)
 [![Puzino's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Puzino&theme=dark)](https://github.com/Puzino/leetcode-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Puzino/github-readme-stats#gh-dark-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Puzino&theme=onedark)](https://github.com/Puzino)
