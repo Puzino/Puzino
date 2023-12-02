@@ -50,9 +50,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Puzino&theme=transparent&border_radius=4&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Puzino)
+[![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
 
-
-https://leetcode.com/Puzino/
 
 [![Puzino's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Puzino&theme=dark)](https://github.com/Puzino/leetcode-stats)
