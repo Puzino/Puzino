@@ -7,16 +7,16 @@
 <p>My stack Python: Python 3.x, Django, DRF, CSS, HTML, LINUX</p>
 <p>My stack C#: .NET 7, ASP.NET </p>
 <p>SQL: MSSQL,
-  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Puzino)](https://github.com/Puzino)
 
 
 <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a>/<a href='https://drive.google.com/file/d/1PK1D_ko_cgM766OZaQqkpiJ8bDHSrWUo/view?usp=sharing' target=_blank><u>C#</u></a></p>
-## Some of my Github Stats
+<h2>Some of my GitHub Stats</h2>
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Puzino alt=Puzino /></p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Puzino&show_icons=true&include_all_commits=true)](https://github.com/Puzino/github-readme-stats)
