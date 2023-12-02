@@ -24,3 +24,6 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Puzino&show_icons=true&include_all_commits=true)](https://github.com/Puzino/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact)](https://github.com/Puzino/github-readme-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=transparent&border_radius=4&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
