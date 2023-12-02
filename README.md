@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-puzino000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:puzino000@gmail.com)](mailto:puzino000@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Timur-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timur-puzino/)](https://www.linkedin.com/in/timur-puzino) 
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
-<p align='left'> <img src=https://komarev.com/ghpvc/?username=Puzino alt=Puzino /></p>
+<p align='left'> <img src='https://komarev.com/ghpvc/?username=Puzino' alt=Puzino /></p>
 <p align='left'>I studying Python/C# for backend and game developing</p>
 <p>My stack Python: 
 
@@ -49,9 +49,7 @@ LINUX
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Puzino&theme=onedark)](https://github.com/Puzino)
 
-
-
 [![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Puzino/github-readme-stats#gh-dark-mode-only)
 [![Puzino's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Puzino&theme=dark)](https://github.com/Puzino/leetcode-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Puzino/github-readme-stats#gh-dark-mode-only)
