@@ -5,10 +5,10 @@
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
 ![Github Badge](https://komarev.com/ghpvc/?username=Puzino)
 
-<h2 align='center'>I studying Python/C# for backend and game developing
+<h2 align='center'>I studying Python/C# for backend and game developing<br/>
 You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a>/<a href='https://drive.google.com/file/d/1PK1D_ko_cgM766OZaQqkpiJ8bDHSrWUo/view?usp=sharing' target=_blank><u>C#</u></a></h2>
 
-<h4>My stack Python: 
+<h4>Python: 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -21,13 +21,13 @@ You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6v
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 </h4>
-<h4>My stack C#:
+<h4>C#:
   
   ASP.NET
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 </h4>
-<h4>My IDE:
+<h4>IDE:
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -47,15 +47,16 @@ You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6v
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </h4>
 
+
+<h4>Other:
+
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</h4>
+
 <h2>Some of my stats</h2>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Puzino&theme=onedark)](https://github.com/Puzino)
-
 [![codewars](https://www.codewars.com/users/Puzino/badges/large)](https://www.codewars.com/users/Puzino)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Puzino&theme=onedark)](https://github.com/Puzino)
 [![Puzino's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Puzino&theme=dark)](https://github.com/Puzino/leetcode-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puzino&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Puzino/github-readme-stats#gh-dark-mode-only)
