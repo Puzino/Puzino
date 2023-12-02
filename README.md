@@ -7,7 +7,7 @@
 <p align='left'>I studying Python/C# for backend and game developing</p>
 <p>My stack Python: Python 3.x, Django, DRF, CSS, HTML, LINUX</p>
 <p>My stack C#: .NET 7, ASP.NET </p>
-<p>
+<p>SQL:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
