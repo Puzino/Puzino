@@ -3,15 +3,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-puzino000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:puzino000@gmail.com)](mailto:puzino000@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Timur-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timur-puzino/)](https://www.linkedin.com/in/timur-puzino) 
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Puzino alt=Puzino /></p>
+<span align=left> <img src=https://komarev.com/ghpvc/?username=Puzino alt=Puzino /></span>
 <p align='left'>I studying Python/C# for backend and game developing</p>
 <p>My stack Python: Python 3.x, Django, DRF, CSS, HTML, LINUX</p>
 <p>My stack C#: .NET 7, ASP.NET </p>
-<p>SQL: MSSQL,
+<p>SQL: MSSQL,</p>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</p>
 
 
 
