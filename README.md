@@ -12,6 +12,9 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a>/<a href='https://drive.google.com/file/d/1PK1D_ko_cgM766OZaQqkpiJ8bDHSrWUo/view?usp=sharing' target=_blank><u>C#</u></a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Puzino alt=Puzino /></p>
