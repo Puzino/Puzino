@@ -5,8 +5,8 @@
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
 ![Github Badge](https://komarev.com/ghpvc/?username=Puzino)
 
-<h2 align='center'>I studying Python/C# for backend and game developing<br/>
-You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a>/<a href='https://drive.google.com/file/d/1PK1D_ko_cgM766OZaQqkpiJ8bDHSrWUo/view?usp=sharing' target=_blank><u>C#</u></a></h2>
+<h2 align='center'>I studying Python for backend developing<br/>
+You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a></h2>
 
 <h4>Python: 
 
