@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Puzino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Puzino/)](https://www.github.com/Puzino/)
 ![Github Badge](https://komarev.com/ghpvc/?username=Puzino)
 
-<h2 align='center'>I study programming for self-development, I am very interested in it, for now it is a hobby but I hope that in the future I will develop very cool and interesting applications to improve the quality of life for all of us!<br/>
+<h2 align='center'>I'm learning programming for self-development, I'm very interested in it, for now it's a hobby, but I hope that in the future I will develop very cool, high quality and interesting applications for all of us!<br/>
 # You can view my resume <a href='https://drive.google.com/file/d/1EsIhdxhpz9Zqh6vQiU_UG15ejOwt3lV1/view?usp=sharing' target=_blank><u>Python</u></a></h2>
 
 <h4>Python: 
